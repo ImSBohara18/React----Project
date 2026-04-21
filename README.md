@@ -224,17 +224,3 @@ It combines:
 * 📊 Social validation (upvotes, saves)
 
 👉 Making it closer to a **“LinkedIn + Reddit + Product Hunt for students”**
-
----
-
-## 🧑‍💻 Author
-
-**Akshat Jain**
-Building towards high-impact student tech products 🚀
-
----
-
-# 🔥 One-Line Resume Description
-
-> Built a full-stack student opportunity platform using Next.js and Supabase with AI recommendations, user authentication, and community-driven features like upvotes, saves, and team collaboration.
-
